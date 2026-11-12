@@ -19,3 +19,7 @@ Python, Streamlit, Ollama, Qwen 2.5
 1. Install Ollama and run: ollama pull qwen2.5:3b
 2. Run: pip install -r requirements.txt
 3. Run: streamlit run app.py
+
+## Screenshots
+![Dashboard](Dashboard.png)
+![Report](Report.png)
