@@ -1,4 +1,4 @@
-# Sunshine Shop AI
+# AI-Powered Business Dashboard and Assistant
 
 A business dashboard with an AI assistant, built in Python.
 
